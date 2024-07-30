@@ -11,4 +11,5 @@ We will use the following technologies:
 - Javascript
 
 ## Preview
-![Disney+ Hotstar clone](https://user-images.githubusercontent.com/59678435/196937651-e83fff0a-cbad-4c6e-b930-50c6bb10d7a8.png)
+![Screenshot 2024-07-30 233923](https://github.com/user-attachments/assets/43d9bef7-2399-4442-8e29-e21f21bba93e)
+![Screenshot 2024-07-30 233909](https://github.com/user-attachments/assets/7577c974-ba8b-4e8c-8dbb-a5979b76df10)
