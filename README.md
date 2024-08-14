@@ -1,4 +1,4 @@
-# Front-End-Development-Clone-Project
+# Website Cloning - Front End Development
 This project involves developing a responsive and visually appealing clone of the Disney+ Hotstar streaming platform. The aim is to replicate the user interface, user experience, and basic functionalities of the original website.
 
 # Disney-Hotstar-Clone
