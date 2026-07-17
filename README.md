@@ -66,3 +66,10 @@ https://github.com/user-attachments/assets/6a349926-eb63-4dd0-b403-315d633e494d
 
 https://github.com/user-attachments/assets/d8b6b9c7-6a3f-40eb-8ba6-fe9d34b6bb27
 
+
+
+## Requirements
+
+```
+pip install -r requirements.txt
+```
