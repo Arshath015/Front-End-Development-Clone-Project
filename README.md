@@ -75,3 +75,7 @@ https://github.com/user-attachments/assets/d8b6b9c7-6a3f-40eb-8ba6-fe9d34b6bb27
 ```
 pip install -r requirements.txt
 ```
+
+
+---
+**Last updated:** 2026-07-27
